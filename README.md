@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 this is the image of the app
-![DemoofTheApp V.1](https://github.com/Rotas0Square/WeatherApp/blob/main/Screenshot%202024-06-08%20131600.png)
+![WeatherDemoTheApp V.1](https://github.com/Rotas0Square/WeatherApp/blob/main/Screenshot%202024-06-08%20131600.png)
